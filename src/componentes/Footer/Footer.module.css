@@ -1,0 +1,16 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+;
+
+}
+.footer h2 {
+    font-size: 0.7rem;
+    align-items: center;
+;
+}
