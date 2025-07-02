@@ -1,13 +1,14 @@
 import Footer from "./componentes/Footer";
 import Header from "./componentes/Header";
+import Hero from "./componentes/Hero";
 
 
 function App() {
   return (
     <>
     <Header/>
-    <h1>Olá Mundo!</h1>
-    <p>Estou aprendendo React JS</p>
+    <Hero />
+    
 
     <Footer />
     </>
